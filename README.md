@@ -29,5 +29,5 @@ Welcome to a Lighthouse Labs programming lecture! Here are a few things to keep 
 
 ## Objects
 
-* [ ] Array
+* [X] Array
 * [ ] Basic JavaScript Objects
