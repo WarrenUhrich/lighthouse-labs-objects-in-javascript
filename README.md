@@ -20,9 +20,9 @@ Welcome to a Lighthouse Labs programming lecture! Here are a few things to keep 
 ## Primitives
 
 * Integers
-* Strings
+* [ ] Strings
 * [X] Undefined
 * [X] Null
 * NaN
-* Boolean
+* [X] Boolean
 * Symbol
