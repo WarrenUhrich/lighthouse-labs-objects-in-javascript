@@ -2,7 +2,7 @@
 
 [GitHub Repository Branch](https://github.com/WarrenUhrich/lighthouse-labs-objects-in-javascript/tree/2022.05.24-web-flex-day-16may2022) | [Vimeo Video](#)
 
-- [ ] Introduction
+- [X] Introduction
 - [ ] JavaScript Primitives and Data-Types
 - [ ] JavaScript Object Fundamentals
 
@@ -16,3 +16,13 @@ Welcome to a Lighthouse Labs programming lecture! Here are a few things to keep 
     - Ask questions, don't be afraid to speak up!
     - The sooner you ask, the more it will be related to what's being taught in the moment.
     - Zoom has a text chat and a "raise your hand" feature, if you feel it is a moment where you may otherwise be interrupting.
+
+## Primitives
+
+* Integers
+* Strings
+* Undefined
+* Null
+* NaN
+* Boolean
+* Symbol
