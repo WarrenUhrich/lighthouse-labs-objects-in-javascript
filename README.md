@@ -22,7 +22,7 @@ Welcome to a Lighthouse Labs programming lecture! Here are a few things to keep 
 * Integers
 * Strings
 * [X] Undefined
-* Null
+* [X] Null
 * NaN
 * Boolean
 * Symbol
