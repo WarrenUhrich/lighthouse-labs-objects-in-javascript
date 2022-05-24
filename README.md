@@ -21,7 +21,7 @@ Welcome to a Lighthouse Labs programming lecture! Here are a few things to keep 
 
 * Integers
 * Strings
-* Undefined
+* [X] Undefined
 * Null
 * NaN
 * Boolean
