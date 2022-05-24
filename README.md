@@ -30,4 +30,4 @@ Welcome to a Lighthouse Labs programming lecture! Here are a few things to keep 
 ## Objects
 
 * [X] Array
-* [ ] Basic JavaScript Objects
+* [X] Basic JavaScript Objects
