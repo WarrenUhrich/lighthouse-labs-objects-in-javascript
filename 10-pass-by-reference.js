@@ -1,6 +1,6 @@
 function addToObjProp(obj) {
     console.log('Object before addition:', obj);
-    obj = {}; // BRAND NEW reference / object.
+    // obj = {}; // If you run this... it is a BRAND NEW reference / object.
     obj.prop = 5;
     obj.prop = obj.prop + 2;
     console.log('Object after addition:', obj);
