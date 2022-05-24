@@ -19,11 +19,15 @@ Welcome to a Lighthouse Labs programming lecture! Here are a few things to keep 
 
 ## Primitives
 
-* Integers
-* Floats
+* [X] Number (Integers, Floats, NaN, Infinity)
+* [X] BigInt
 * [X] Strings
 * [X] Undefined
 * [X] Null
-* NaN
 * [X] Boolean
-* Symbol
+* [ ] Symbol
+
+## Objects
+
+* [ ] Array
+* [ ] Basic JavaScript Objects
