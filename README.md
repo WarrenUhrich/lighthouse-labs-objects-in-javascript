@@ -20,7 +20,8 @@ Welcome to a Lighthouse Labs programming lecture! Here are a few things to keep 
 ## Primitives
 
 * Integers
-* [ ] Strings
+* Floats
+* [X] Strings
 * [X] Undefined
 * [X] Null
 * NaN
