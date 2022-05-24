@@ -25,7 +25,7 @@ Welcome to a Lighthouse Labs programming lecture! Here are a few things to keep 
 * [X] Undefined
 * [X] Null
 * [X] Boolean
-* [ ] Symbol
+* [X] Symbol
 
 ## Objects
 
