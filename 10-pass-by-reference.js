@@ -11,4 +11,4 @@ const myObj = {prop: 5};
 console.log('Before function runs:', myObj); // {prop: 5}
 addToObjProp(myObj); // We are passing a reference to the ORIGINAL OBJECT
 // CHANGES, are made DIRECTLY TO ORIGINAL OBJECT
-console.log('After function runs:', myObj); // 
+console.log('After function runs:', myObj); // {prop: 7}
