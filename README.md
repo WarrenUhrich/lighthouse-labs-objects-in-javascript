@@ -1,6 +1,6 @@
 # Lighthouse Labs | Objects in JavaScript
 
-[GitHub Repository Branch](https://github.com/WarrenUhrich/lighthouse-labs-objects-in-javascript/tree/2023.03.28-web-flex-day-20march2023) | [Vimeo Video Recording (Coming Soon!)](#coming-soon)
+[GitHub Repository Branch](https://github.com/WarrenUhrich/lighthouse-labs-objects-in-javascript/tree/2023.03.28-web-flex-day-20march2023) | [Vimeo Video Recording](https://vimeo.com/812555601/a033bf0f4c)
 
 * [X] Introduction
 * [X] JavaScript Primitives and Data-Types
