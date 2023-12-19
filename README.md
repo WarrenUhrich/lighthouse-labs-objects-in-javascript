@@ -1,6 +1,6 @@
 # Lighthouse Labs | Objects in JavaScript
 
-* [ ] Introduction
+* [X] Introduction
 * [ ] JavaScript Primitives and Data-Types
 * [ ] JavaScript Object Fundamentals
 
@@ -21,3 +21,21 @@ Welcome to a Lighthouse Labs programming lecture! Here are a few things to keep 
     * Ask questions, don't be afraid to speak up!
     * The sooner you ask, the more it will be related to what's being taught in the moment.
     * Zoom has a text chat and a "raise your hand" feature, if you feel it is a moment where you may otherwise be interrupting.
+
+## Data-Types in JavaScript
+
+## Primitive Data Types (Immutable -> Passed by Value)
+
+* Booleans
+* Strings
+* null
+* Number (Integer / Float / NaN)
+* BigInt
+* undefined
+* Symbol
+
+## Advanced Data Structures (Mutable -> Passed by Reference)
+
+* Functions
+* Objects
+* Arrays
